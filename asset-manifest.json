@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.5a7e0202.chunk.css",
+    "main.js": "/resume/static/js/main.7bae944e.chunk.js",
+    "main.js.map": "/resume/static/js/main.7bae944e.chunk.js.map",
+    "polyfill-modern.js": "/resume/static/js/polyfill-modern.91bd75fc.chunk.js",
+    "polyfill-modern.js.map": "/resume/static/js/polyfill-modern.91bd75fc.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.3b2c7823.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.3b2c7823.js.map",
+    "static/js/3.69f639d4.chunk.js": "/resume/static/js/3.69f639d4.chunk.js",
+    "static/js/3.69f639d4.chunk.js.map": "/resume/static/js/3.69f639d4.chunk.js.map",
+    "static/js/4.2a3f9ce2.chunk.js": "/resume/static/js/4.2a3f9ce2.chunk.js",
+    "static/js/4.2a3f9ce2.chunk.js.map": "/resume/static/js/4.2a3f9ce2.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "static/css/main.5a7e0202.chunk.css.map": "/resume/static/css/main.5a7e0202.chunk.css.map",
+    "static/js/3.69f639d4.chunk.js.LICENSE.txt": "/resume/static/js/3.69f639d4.chunk.js.LICENSE.txt",
+    "static/media/MainName.css": "/resume/static/media/100_5970.c44156aa.JPG",
+    "static/media/data.db": "/resume/static/media/data.09259f6f.db",
+    "static/media/profile3.fb102497.jpg": "/resume/static/media/profile3.fb102497.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b2c7823.js",
+    "static/js/3.69f639d4.chunk.js",
+    "static/css/main.5a7e0202.chunk.css",
+    "static/js/main.7bae944e.chunk.js"
+  ]
+}
